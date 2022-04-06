@@ -1,0 +1,1 @@
+# rb-linter-template
